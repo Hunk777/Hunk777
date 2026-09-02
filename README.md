@@ -1,14 +1,14 @@
-<pre align="center">
-<b>Hunk777</b>
-────────────────────────────────────────
-  TRADE / INDICATORS
-  MQL5 · Pine Script · MetaTrader
-────────────────────────────────────────
-  Japan
-</pre>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:111827,100:0A66C2&height=200&section=header&text=Hunk777&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Indicator%20Engineer%20%C2%B7%20TRADE&descSize=17&descAlignY=58&descAlign=50" alt="Header" />
+</p>
 
 <p align="center">
-  <strong>Indicator Engineer</strong> — チャートに載せるロジックを設計して実装している
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&multiline=true&width=680&height=88&lines=Building+Trading+Indicators;EMA+4+%C3%97+9+%C2%B7+SL+%2F+TP+%C2%B7+Trailing;MQL5+%C2%B7+Pine+Script+%C2%B7+MetaTrader;Golden+Sniper+%C2%B7+EMA+Cross+Pro" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIMARY-TRADE%20%2F%20INDICATORS-FFD700?style=for-the-badge&labelColor=111827" alt="TRADE" />
+  <img src="https://img.shields.io/badge/location-Japan-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Japan" />
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Pine%20Script-v5-2962FF?style=flat-square&logo=tradingview&logoColor=white" alt="Pine" />
   <img src="https://img.shields.io/badge/MetaTrader-4%2F5-009688?style=flat-square" alt="MT" />
   <img src="https://img.shields.io/badge/EMA-4x9-555?style=flat-square" alt="EMA" />
+  <img src="https://img.shields.io/badge/Golden_Sniper-v13-555?style=flat-square" alt="Golden Sniper" />
 </p>
 
 ---
@@ -57,6 +58,11 @@ Pine Script（TradingView）と MQL5（MetaTrader）の両方で同じ思想を�
   dead cross    →  short
 ```
 
+<p align="center">
+  <a href="https://github.com/Hunk777/ema4--9"><img src="https://img.shields.io/static/v1?label=Repository&message=Hunk777%2Fema4--9&color=FFD700&style=for-the-badge&logo=github&logoColor=black" alt="Repo" /></a>
+  <img src="https://img.shields.io/github/last-commit/Hunk777/ema4--9?style=for-the-badge&label=last%20commit&color=111827" alt="Last commit" />
+</p>
+
 <details>
 <summary>ファイル一覧</summary>
 
@@ -76,7 +82,7 @@ Pine Script（TradingView）と MQL5（MetaTrader）の両方で同じ思想を�
 
 ## About
 
-**Hunk** · Japan
+**Hunk** · Japan · **Indicator Engineer**
 
 TRADE を主軸に、Tipster（地図マーケット）と SynapseMap（思考ツール）も並行。
 
@@ -91,12 +97,16 @@ TRADE を主軸に、Tipster（地図マーケット）と SynapseMap（思考�
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunk777&show_icons=true&theme=default&hide_border=true&title_color=111&icon_color=555&text_color=333&count_private=true" alt="stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunk777&layout=compact&theme=default&hide_border=true&title_color=111&text_color=333&langs_count=8&exclude_repo=Hunk777" alt="langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunk777&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunk777&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=8&exclude_repo=Hunk777" alt="langs" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunk777&theme=default&hide_border=true&background=ffffff&stroke=d0d7de&ring=111&fire=555&currStreakLabel=333" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunk777&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=888888" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunk777&theme=react-dark&hide_border=true&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&custom_title=Contribution%20Activity" alt="activity" />
 </p>
 
 ---
@@ -128,6 +138,14 @@ MQL5 · Pine Script · TypeScript · React · Expo · Supabase · Node
 ```
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:111827,100:0A66C2&height=120&section=footer&text=Building%20Indicators&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hunk777&label=Profile%20views&color=FFD700&style=flat-square" alt="views" />
+</p>
 
 <p align="center">
   <sub>インジケーター · EA は研究目的。実取引は自己責任。</sub>
